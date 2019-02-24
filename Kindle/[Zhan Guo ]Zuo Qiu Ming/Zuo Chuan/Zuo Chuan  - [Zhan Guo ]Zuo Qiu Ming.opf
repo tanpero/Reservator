@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2197ffe-4256-42ac-a373-6ec365820d89</dc:identifier>
+        <dc:title>左传</dc:title>
+        <dc:creator opf:file-as="[战国]左丘明" opf:role="aut">[战国]左丘明</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-24T06:44:33+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[战国]左丘明&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-24T06:45:29.035000+00:00" name="calibre:timestamp"/>
+        <meta content="左传" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Zuo Chuan  - [Zhan Guo ]Zuo Qiu Ming.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

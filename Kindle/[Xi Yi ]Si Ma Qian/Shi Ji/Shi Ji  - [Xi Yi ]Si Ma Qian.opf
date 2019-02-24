@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db7e600b-c7f6-43fc-bcc8-d8edaa451b5f</dc:identifier>
+        <dc:title>史记</dc:title>
+        <dc:creator opf:file-as="[西汉]司马迁" opf:role="aut">[西汉]司马迁</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-01T01:54:52+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">b96dfda3-5a7c-41e8-9b00-c2a238f50ab7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[西汉]司马迁&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-24T06:26:42.583000+00:00" name="calibre:timestamp"/>
+        <meta content="史记" name="calibre:title_sort"/>
+    </metadata>
+    <guide/>
+</package>

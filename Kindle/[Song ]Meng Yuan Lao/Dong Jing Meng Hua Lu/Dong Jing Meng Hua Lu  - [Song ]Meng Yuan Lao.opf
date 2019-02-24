@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b6f7634-e738-4e1f-ba7e-4f76d51d01c2</dc:identifier>
+        <dc:title>东京梦华录</dc:title>
+        <dc:creator opf:file-as="[宋]孟元老" opf:role="aut">[宋]孟元老</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-01T01:51:54+00:00</dc:date>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[宋]孟元老&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-24T06:37:46.590000+00:00" name="calibre:timestamp"/>
+        <meta content="东京梦华录" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Dong Jing Meng Hua Lu  - [Song ]Meng Yuan Lao.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

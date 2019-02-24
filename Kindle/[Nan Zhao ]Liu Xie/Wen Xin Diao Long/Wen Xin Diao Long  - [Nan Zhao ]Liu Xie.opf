@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">90adbf5d-6af6-4d22-9bd0-c0673f400dc3</dc:identifier>
+        <dc:title>文心雕龙</dc:title>
+        <dc:creator opf:file-as="[南朝]刘勰" opf:role="aut">[南朝]刘勰</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-24T05:45:14+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">54fbeb05-7628-4499-8716-a264c42a6817</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[南朝]刘勰&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-24T06:20:52.601000+00:00" name="calibre:timestamp"/>
+        <meta content="文心雕龙" name="calibre:title_sort"/>
+    </metadata>
+    <guide/>
+</package>
