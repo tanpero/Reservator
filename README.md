@@ -2,71 +2,39 @@
 
 ---
 
-This is a collection of Chinese cultural books and attempts to provide its various forms of projects.
+这是一个用于收藏中国文化典籍，并尝试提供其多种形式的项目。
 
-Typography is a simple arrangement based on personal preferences.
+排版是根据个人喜好进行简单编排。
 
-At present, in some ancient books, because some uncharacterized Chinese characters are not currently played, use "(Left X Right X)" this form of record. In the future, we will pick out the energy and try to change it back to a single Chinese character according to the original text.
+目前部分古籍中，由于某些生僻汉字暂时没有打出，使用“（左 X 右 X）“这种形式记录。将来会挑出精力，尽量依照原文，将其改回单个汉字。
 
-Warmhearted people are welcome to join this work! ^_^
+欢迎热心人加入这一工作！^_^
 
-Current work required:
+目前需要的工作：
 
-- Continue to add new ancient books and their content
-- Make .mobi files based on .epub files (personal use Calibre<sup>&copy;</sup>)
-- Fix temporary Chinese characters in the document
-- Generate more document types
+- 持续添加新的古籍及其内容
+- 根据 .epub 文件制作 .mobi 文件（个人使用  Calibre<sup>&copy;</sup>)
+- 修复文档中的临时性汉字记号
+- 生成更多的文档类型
 
-Personal work is not easy, you need your support~
+个人工作不易，需要您的支持~
 
 ---
 
-List of ancient books currently available (as of last update):
+图书馆在[这里](list)
 
-- "Tokyo Dreams"
-- "Lie Zi"
-- "Nineteen Ancient Poems"
-- "Historical Records"
-- Zuo Zhuan
-- Ping Song Lu
-- "Zhuangzi"
-- Wen Xin Diao Long
-- Ming History
-- "The Northern Season of the Ming Dynasty"
-- "Water Sutra"
-- Han Shu
-- "Book of Rites"
-- "Pipe"
-- "Jingkang Biography"
-- ......
+---
 
 
+## 可选的文档风格
 
-## Currently available document format
+---
 
-Markdown (.md)
-
-> Markdown source files for editing
-
-Epub (.epub)
-
-> E-book format for computer and mobile e-book readers.
-
-HTML (.html)
-
-> Web format, offering five visual styles.
-
-Kindle (.mobi)
-
-> Amazon<sup>TM</sup> Kindle's eBook format, edited with Calibre<sup>&copy;</sup>.
-
-LaTex (.tex)
-
-> LaTeX source file format.
-
-OpenOffice (.odt)
-
-> Document format for OpenOffice software.
+- light
+- newsprint
+- night
+- pixyll
+- whitey
 
 
 
@@ -74,7 +42,7 @@ OpenOffice (.odt)
 
 ---
 
-Guangzhou Jiangnan Foreign Language School Yang Yulu
+广州市江南外国语学校 杨雨露
 
-February 24, 2019
+2019年2月24日
 
