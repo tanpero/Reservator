@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c42a84d2-4543-4aa7-8d64-29f5cdd09818</dc:identifier>
+        <dc:title>韩非子</dc:title>
+        <dc:creator opf:file-as="韩非" opf:role="aut">[战国]韩非</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-28T10:30:33+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;[战国]韩非&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-01T10:12:51+00:00" name="calibre:timestamp"/>
+        <meta content="韩非子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Han Fei Zi  - [Zhan Guo ]Han Fei.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
